@@ -25,4 +25,7 @@ public class MinMaxValOfArray {
         }
         return number;
     }
+
+    public void test() {
+ }
 }
