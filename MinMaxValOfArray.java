@@ -26,6 +26,7 @@ public class MinMaxValOfArray {
         return number;
     }
 
-    public void test() {
+    public void test(Strig string) {
+      sout
  }
 }
