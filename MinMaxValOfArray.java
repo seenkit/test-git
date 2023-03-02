@@ -34,6 +34,7 @@ public class MinMaxValOfArray {
       System.out.println(string)
  }
 public void super2(String string) {
-      System.out.println("line from user1")
+      System.out.println("line from user2")
+
  }
 }
