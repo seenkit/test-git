@@ -33,4 +33,7 @@ public class MinMaxValOfArray {
  public void super(Strig string) {
       System.out.println(string)
  }
+public void super2(String string) {
+      System.out.println(string)
+ }
 }
