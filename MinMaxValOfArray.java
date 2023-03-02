@@ -28,5 +28,6 @@ public class MinMaxValOfArray {
 
     public void test(Strig string) {
       System.out.println(string)
+System.out.println(string)
  }
 }
