@@ -27,6 +27,6 @@ public class MinMaxValOfArray {
     }
 
     public void test(Strig string) {
-      sout
+      System.out.println()
  }
 }
